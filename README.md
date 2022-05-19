@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shivi
+- 👋 Hi, I’m Shivi saini
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on ...
