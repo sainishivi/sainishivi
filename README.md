@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Shivi saini
-- 👀 I’m interested in web developing
-- 🌱 I’m currently learning react
+- 👋 Hi, I’m Shivani saini
+- 👀 I’m interested in web application security, cloud security and AI security.
+- 🌱 I’m currently 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
